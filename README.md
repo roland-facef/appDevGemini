@@ -16,21 +16,8 @@ Este é um projeto web simples que tem como objetivo apresentar informações so
 * **JavaScript:** Lógica da aplicação, manipulação do DOM e realização das pesquisas.
 
 ## Como Utilizar
-1. **Clonar o repositório:**
-   ```bash
-   git clone https://seu-repositorio.git
-   ```
-
-2. **Instalar as dependências:**
-   ```bash
-   # Se houver dependências, instalar aqui (npm, yarn, etc.)
-   ```
-3. **Iniciar o servidor:**
-   ```bash
-   # Comando para iniciar o servidor local (npm start, python -m http.server, etc.)
-   ```
-4. **Acessar a aplicação:**
-   Abrir um navegador e acessar `http://localhost:porta` (substitua `porta` pela porta do servidor).
+1. **Acessar a aplicação:**
+   Abrir um navegador e acessar `https://app-dev-gemini.vercel.app/`.
 
 ## Estrutura de Arquivos
 * **index.html:** Página principal da aplicação.
@@ -49,24 +36,21 @@ Contribuições são bem-vindas! Para contribuir, siga estes passos:
 Este projeto está licenciado sob a licença [Nome da Licença] - consulte o arquivo LICENSE para mais detalhes.
 
 ## Autores
-* **Seu Nome:** Desenvolvedor principal
+* **Carlos E F Roland:** Desenvolvedor principal
 
 ## Agradecimentos
-Agradeço a [pessoas ou projetos que ajudaram] pela contribuição neste projeto.
-```
+Agradeço a Rafaella Ballerini (criadora de conteúdo tech e instrutura front-end na Alura), ao Guilherme Lima (Tech Educator e professor na Alura e na USP), e ao Luciano Martins (Developer Advocate, Google IA) pela contribuição neste projeto na [Imersão Dev com Google Gemini] da Alura.
 
-**Personalizando o README.md:**
+## Como Contribuir
 
-* **Substitua os placeholders:** Substitua `seu-repositorio` pelo URL do seu repositório, ajuste os comandos de instalação e inicialização do servidor de acordo com a sua configuração, e adicione os nomes das pessoas que contribuíram.
-* **Adicione mais detalhes:** Você pode adicionar mais seções, como "Como contribuir", "Problemas conhecidos", "Changelog", etc., dependendo da complexidade do seu projeto.
-* **Utilize imagens:** Se desejar, você pode adicionar imagens para ilustrar o seu projeto.
-* **Formatação:** Utilize a sintaxe Markdown para formatar o texto, como criar cabeçalhos, listas, negrito, itálico, etc.
+## Problemas conhecidos
+
+## Changelog
 
 **Recursos Adicionais:**
 
 * **Guia completo de Markdown:** [https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-* **Criando um README.md eficaz:** [URL inválido removido]
 
-**Com este README.md bem estruturado, você estará fornecendo aos usuários e outros desenvolvedores uma visão clara e concisa do seu projeto, facilitando a compreensão, o uso e a contribuição.**
+* **Como escrever um README incrível no seu Github:** [https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&hsa_kw=&hsa_mt=&gad_source=1)]
 
-**Gostaria de adicionar mais alguma funcionalidade ao seu README.md?**
+* **Guia Básico para Estruturação de um README:** .[https://github.com/Epaminondaslage/Como-montar-seu-README/blob/master/README.md].
