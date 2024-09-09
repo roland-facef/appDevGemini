@@ -51,6 +51,6 @@ Agradeço a Rafaella Ballerini (criadora de conteúdo tech e instrutura front-en
 
 * **Guia completo de Markdown:** [https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-* **Como escrever um README incrível no seu Github:** [https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&hsa_kw=&hsa_mt=&gad_source=1)]
+* **Como escrever um README incrível no seu Github:** [https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&hsa_kw=&hsa_mt=&gad_source=1](https://www.alura.com.br/artigos/escrever-bom-readme?utm_term=&hsa_kw=&hsa_mt=&gad_source=1)
 
-* **Guia Básico para Estruturação de um README:** .[https://github.com/Epaminondaslage/Como-montar-seu-README/blob/master/README.md].
+* **Guia Básico para Estruturação de um README:** .[https://github.com/Epaminondaslage/Como-montar-seu-README/blob/master/README.md](https://github.com/Epaminondaslage/Como-montar-seu-README/blob/master/README.md)
